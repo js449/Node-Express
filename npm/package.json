@@ -1,0 +1,23 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "This is my first best package buit by me",
+  "main": "npmUsage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Awsome",
+    "package"
+  ],
+  "author": "Jaggdep Singh",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "express": "^4.17.2",
+    "slugify": "~1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": ">2.0.1"
+  }
+}
